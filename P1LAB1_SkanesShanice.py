@@ -8,7 +8,7 @@ Type "help", "copyright", "credits" or "license()" for more information.
 last_name = input()
 >>> print('Enter your first name', first_name)
 Enter your first name last_name = input()
->>> print('Enter your las name:', last_name)
+>>> print('Enter your last name:', last_name)
 Traceback (most recent call last):
   File "<pyshell#6>", line 1, in <module>
     print('Enter your las name:', last_name)
